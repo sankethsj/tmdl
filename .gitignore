@@ -1,2 +1,4 @@
 .pypirc
 dist/
+venv/
+__pycache__/
